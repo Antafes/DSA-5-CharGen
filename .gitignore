@@ -1,0 +1,6 @@
+/nbproject/private/
+/index.php
+/db_migrations/transformToMigrations.php
+/db_migrations/migrations.php
+/templates_c/*
+/lib/config.php
