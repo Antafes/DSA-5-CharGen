@@ -1,6 +1,6 @@
 <?php
 /**
- * Part of the dsa blacksmith.
+ * Part of the dsa 5 character generator.
  *
  * @package Page
  * @author  friend8 <map@wafriv.de>

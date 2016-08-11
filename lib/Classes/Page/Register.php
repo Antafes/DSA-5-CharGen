@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 /**
- * This file is part of Image Upload.
+ * This file is part of DSA 5 Character Generator.
  *
  * Image Upload is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
@@ -16,9 +16,9 @@ declare(strict_types=1);
  * You should have received a copy of the GNU Lesser General Public License
  * along with Image Upload.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @package   Image Upload
+ * @package   DSA 5 Character Generator
  * @author    Marian Pollzien <map@wafriv.de>
- * @copyright (c) 2015, $(copyrightUser}
+ * @copyright (c) 2015, Marian Pollzien
  * @license   https://www.gnu.org/licenses/lgpl.html LGPLv3
  */
 namespace Page;
