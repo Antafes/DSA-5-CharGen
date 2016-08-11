@@ -124,6 +124,10 @@ $DB_MIGRATION = array(
 		');
 
 		$results[] = query_raw('
+			INSERT INTO `talents` (`talentCode`, `talentGroup`, `attribute1`, `attribute2`, `attribute3`, `handicap`, `raiseGroup`) VALUES ("knowledgeOfHumanNature", "social", "kl", "in", "ch", "no", "c")
+		');
+
+		$results[] = query_raw('
 			INSERT INTO `talents` (`talentCode`, `talentGroup`, `attribute1`, `attribute2`, `attribute3`, `handicap`, `raiseGroup`) VALUES ("convincing", "social", "mu", "in", "ch", "no", "c")
 		');
 
