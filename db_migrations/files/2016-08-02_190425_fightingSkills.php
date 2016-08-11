@@ -1,4 +1,11 @@
 <?php
+/**
+ * Part of the dsa 5 character generator.
+ *
+ * @package sql
+ * @author  friend8 <map@wafriv.de>
+ * @license https://www.gnu.org/licenses/lgpl.html LGPLv3
+ */
 
 $DB_MIGRATION = [
     'description' => function () {

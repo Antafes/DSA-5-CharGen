@@ -1,6 +1,6 @@
 <?php
 /**
- * SQL statements for the admin page.
+ * Part of the dsa 5 character generator.
  *
  * @package sql
  * @author  friend8 <map@wafriv.de>

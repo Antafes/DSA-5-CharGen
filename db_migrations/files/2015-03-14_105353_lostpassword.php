@@ -1,6 +1,6 @@
 <?php
 /**
- * SQL statements for the lost password function on the login form.
+ * Part of the dsa 5 character generator.
  *
  * @package sql
  * @author  friend8 <map@wafriv.de>
