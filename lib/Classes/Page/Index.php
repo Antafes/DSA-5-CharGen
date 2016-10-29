@@ -14,7 +14,8 @@ declare(strict_types=1);
  * GNU Lesser General Public License for more details.
  *
  * You should have received a copy of the GNU Lesser General Public License
- * along with Image Upload.  If not, see <http://www.gnu.org/licenses/>.
+ * along with the DSA 5 Character Generator.  If not, see
+ * <http://www.gnu.org/licenses/>.
  *
  * @package   DSA 5 Character Generator
  * @author    Marian Pollzien <map@wafriv.de>
@@ -26,21 +27,12 @@ namespace Page;
 /**
  * Class for the index page.
  *
- * @package    Image Upload
- * @subpackage Page
- * @author     Marian Pollzien <map@wafriv.de>
- * @license    https://www.gnu.org/licenses/lgpl.html LGPLv3
+ * @package Page
+ * @author  Marian Pollzien <map@wafriv.de>
+ * @license https://www.gnu.org/licenses/lgpl.html LGPLv3
  */
-class Index extends \SmartWork\Page
+class Index extends \SmartWork\Index\Page\Index
 {
-	/**
-	 * Set the used template.
-	 */
-	public function __construct()
-	{
-		parent::__construct('index');
-	}
-
 	/**
 	 * Add javascripts and show the list of the images of the currently logged in user.
 	 *
